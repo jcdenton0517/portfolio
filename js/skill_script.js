@@ -42,7 +42,7 @@
             run_duration -= 1000;
             _left.css({
               'clip': 'rect(0, 150px, 150px, 75px)',
-              'background': '#a89eff'
+              'background': '#5fceb9'
             });
             return _left.animate({
               circle_rotate: deg
